@@ -5,7 +5,7 @@
     Aggiungere alla pagina un’immagine, presa anch’essa da un data.
  */
 
-const { createApp } = Vue
+const { createApp } = Vue;
 
 createApp({
     data() {
@@ -14,4 +14,4 @@ createApp({
             image: 'img/vuejs.png'
         }
     }
-}).mount('#app')
+}).mount('#app');
