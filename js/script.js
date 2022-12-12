@@ -10,7 +10,7 @@ const { createApp } = Vue
 createApp({
     data() {
         return {
-            message: 'Hello Vue!'
+            message: 'Questo è il primo esercizio utilizzando Vue js'
         }
     }
 }).mount('#app')
